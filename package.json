@@ -11,6 +11,10 @@
     "command-line-args": "^5.0.1",
     "command-line-usage": "^4.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsndr/laang.git"
+  },
   "engines": {
     "node": ">= 8.5.0"
   }
