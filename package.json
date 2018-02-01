@@ -1,0 +1,17 @@
+{
+  "name": "Laang",
+  "version": "1.0.0",
+  "description": "Provides the fastest way of integrating Angular into Laravel",
+  "bin": {
+    "laang": "bin/laang.js"
+  },
+  "author": "lsndr <i@lisand.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.1",
+    "command-line-usage": "^4.1.0"
+  },
+  "engines": {
+    "node": ">= 8.5.0"
+  }
+}
