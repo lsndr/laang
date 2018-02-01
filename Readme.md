@@ -1,5 +1,5 @@
 
- Provides the fastest way of integrating [Angular](https://angular.io) into [Laravel](http://laravel.com).
+ Provides the fastest way of integrating [Angular](https://angular.io) into [Laravel 5](http://laravel.com).
 
   [![contributions welcome][contributions]]([issues-link])
 
